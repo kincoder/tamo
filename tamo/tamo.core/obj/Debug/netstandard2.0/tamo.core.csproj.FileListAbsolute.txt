@@ -1,0 +1,9 @@
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\bin\Debug\netstandard2.0\tamo.core.deps.json
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\bin\Debug\netstandard2.0\tamo.core.dll
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\bin\Debug\netstandard2.0\tamo.core.pdb
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\obj\Debug\netstandard2.0\tamo.core.csprojAssemblyReference.cache
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\obj\Debug\netstandard2.0\tamo.core.AssemblyInfoInputs.cache
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\obj\Debug\netstandard2.0\tamo.core.AssemblyInfo.cs
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\obj\Debug\netstandard2.0\tamo.core.csproj.CoreCompileInputs.cache
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\obj\Debug\netstandard2.0\tamo.core.dll
+C:\Users\kinco\source\repos\tamo\tamo\tamo.core\obj\Debug\netstandard2.0\tamo.core.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+jGFgS7ZX8Z/3LCcgltkAwAA9WBK68N2G0FPRG38WAyl2SY/zG3MKs52s7649tXdgGS8dkH1ZhSAL1jfwGimw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kinco\\source\\repos\\tamo\\tamo\\tamo.core\\tamo.core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
