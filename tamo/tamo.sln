@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30225.117
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamo.console", "tamo.console\tamo.console.csproj", "{15F123C9-C5B5-4110-89F7-55E9854B3CB3}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "tamo.database", "tamo.database\tamo.database.sqlproj", "{873CC671-94B0-48A9-AE25-545C2A57CD46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{15F123C9-C5B5-4110-89F7-55E9854B3CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15F123C9-C5B5-4110-89F7-55E9854B3CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15F123C9-C5B5-4110-89F7-55E9854B3CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873CC671-94B0-48A9-AE25-545C2A57CD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873CC671-94B0-48A9-AE25-545C2A57CD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873CC671-94B0-48A9-AE25-545C2A57CD46}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{873CC671-94B0-48A9-AE25-545C2A57CD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873CC671-94B0-48A9-AE25-545C2A57CD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873CC671-94B0-48A9-AE25-545C2A57CD46}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
