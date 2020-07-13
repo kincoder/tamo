@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamo.core", "tamo.core\tamo.core.csproj", "{03F61E73-68F4-4C4C-B129-8DD0501F26AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamo.console", "tamo.console\tamo.console.csproj", "{15F123C9-C5B5-4110-89F7-55E9854B3CB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{03F61E73-68F4-4C4C-B129-8DD0501F26AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03F61E73-68F4-4C4C-B129-8DD0501F26AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03F61E73-68F4-4C4C-B129-8DD0501F26AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03F61E73-68F4-4C4C-B129-8DD0501F26AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F123C9-C5B5-4110-89F7-55E9854B3CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F123C9-C5B5-4110-89F7-55E9854B3CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F123C9-C5B5-4110-89F7-55E9854B3CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F123C9-C5B5-4110-89F7-55E9854B3CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
